@@ -1,16 +1,19 @@
-### Hi there 👋
+# hello, there 👋🏾
 
-<!--
-**ademesojosiah/ademesojosiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website Badge](https://img.shields.io/badge/-Portfolio-3B7EBF?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://josiahsportfolio.netlify.app/)](https://josiahsportfolio.netlify.app) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josiah-ademeso-1827201b3/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B1mRAqAyGTCuRyVslzGWP%2Fg%3D%3D](https://www.linkedin.com/in/josiah-ademeso-1827201b3/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B1mRAqAyGTCuRyVslzGWP%2Fg%3D%3D) [![Twitter Badge](https://img.shields.io/badge/-@josiahademeso-3B7EBF?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/josiahademeso)](https://twitter.com/josiahademeso)
 
-Here are some ideas to get you started:
+I'm a Software Engineer, Experienced in web design and developement, producing quality and accesible user friendly products. I'm passionate about sharing knowledge, open source, web engineering.
+- 😊 Pronouns: He/him
+- 📫 How to reach me: DM [@josiahademeso](https://twitter.com/josiahademeso).
+- 💙 Fun fact: I'm currently studying Bank-end Development, at AltSchool Africa School of Software Engineering Class of 2022.
+- 🌱 I’m currently learning JavaScript, Nodejs at the moment.
+- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 💼 Job interests: Software Engineer, Front-end developer, Back-end developer in Process (Intern or Junior level).
+- 📫 You can contact me josiahademeso@gmail.com.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ademesojosiah&show_icons=true&include_all_commits=true&hide_border=true" alt="josiah's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademesojosiah&langs_count=8&layout=compact&hide=php&hide_border=true" alt="josiah's GitHub stats" /> |
+| ------------- | ------------- |
+
+<img src="https://gpvc.arturio.dev/ademesojosiah" alt="profile views">
