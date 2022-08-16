@@ -7,10 +7,9 @@
 I'm a Software Engineer, Experienced in web design and developement, producing quality and accesible user friendly products. I'm passionate about sharing knowledge, open source, web engineering.
 - 😊 Pronouns: He/him
 - 📫 How to reach me: DM [@josiahademeso](https://twitter.com/josiahademeso).
-- 💙 Fun fact: I'm currently studying Bank-end Development, at AltSchool Africa School of Software Engineering Class of 2022.
-- 🌱 I’m currently learning JavaScript, Nodejs at the moment.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front-end developer, Back-end developer in Process (Intern or Junior level).
+- 💙 Fun fact: I'm currently studying Bank-end Development(Nodejs), at AltSchool Africa School of Software Engineering Class of 2022.
+- 😊 I do have  intrest in open source projects, hackathons, internships, and entry-level opportunities.
+- 💼 Job interests: Software Engineer- Front-end developer, Back-end developer (Intern or Junior level).
 - 📫 You can contact me josiahademeso@gmail.com.
 
 ---
