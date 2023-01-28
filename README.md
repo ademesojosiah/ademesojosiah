@@ -1,6 +1,6 @@
 # hello, there 👋🏾
 
-[![Website Badge](https://img.shields.io/badge/-Portfolio-3B7EBF?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://josiahsportfolio.netlify.app/)](https://josiahsportfolio.netlify.app) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=red&link=https://www.linkedin.com/in/josiah-ademeso-1827201b3)](https://www.linkedin.com/in/josiah-ademeso-1827201b3) [![Twitter Badge](https://img.shields.io/badge/-@josiahademeso-3B7EBF?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/josiahademeso)](https://twitter.com/josiahademeso)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-3B7EBF?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://josiahsportfolio.netlify.app/)](https://josiahsportfolio.netlify.app) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=red&link=https://www.linkedin.com/in/josiahademeso)](https://www.linkedin.com/in/josiahademeso) [![Twitter Badge](https://img.shields.io/badge/-@josiahademeso-3B7EBF?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/josiahademeso)](https://twitter.com/josiahademeso)
 
 **Here's a quick summary about me**:
 
