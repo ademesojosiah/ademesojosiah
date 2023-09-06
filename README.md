@@ -4,7 +4,7 @@
 
 **Here's a quick summary about me**:
 
-I'm a Software Engineer(Back-end developer), Experienced in web design and developement, producing quality and accesible user friendly products. I'm passionate about sharing knowledge, open source, web engineering.
+I'm a Software Engineer(Back-end developer) javascript| typescript | java, Experienced in web design and developement, producing quality and accesible user friendly products. I'm passionate about sharing knowledge, open source, web engineering.
 - 😊 Pronouns: He/him
 - 📫 How to reach me: DM [@josiahademeso](https://twitter.com/josiahademeso).
 - 😊 I do have  intrest in open source projects, hackathons, internships, and entry-level opportunities.
