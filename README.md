@@ -7,8 +7,8 @@
 I'm a Software Engineer(Back-end developer) javascript| typescript | java, Experienced in web design and developement, producing quality and accesible user friendly products. I'm passionate about sharing knowledge, open source, web engineering.
 - 😊 Pronouns: He/him
 - 📫 How to reach me: DM [@josiahademeso](https://twitter.com/josiahademeso).
-- 😊 I do have  intrest in open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer-  Back-end developer (Intern or Junior level).
+- 😊 I do have  intrest in open source projects, hackathons, and junior-level opportunities.
+- 💼 Job interests: Software Engineer-  Back-end developer (Junior level).
 - 📫 You can contact me josiahademeso@gmail.com.
 
 ---
